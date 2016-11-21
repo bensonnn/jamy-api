@@ -21,8 +21,9 @@
     "nodemon": "^1.10.0"
   },
   "dependencies": {
-    "koa": "^1.2.4",
+    "koa": "^2.0.0-alpha.7",
     "koa-compress": "^1.0.9",
-    "koa-router": "^5.4.0"
+    "koa-ratelimit": "^2.4.0",
+    "koa-router": "^7.0.1"
   }
 }
