@@ -23,7 +23,11 @@
   "dependencies": {
     "koa": "^2.0.0-alpha.7",
     "koa-compress": "^1.0.9",
+    "koa-helmet": "^2.0.0",
     "koa-ratelimit": "^2.4.0",
-    "koa-router": "^7.0.1"
+    "koa-router": "^7.0.1",
+    "queue": "^4.0.0",
+    "request": "^2.79.0",
+    "superagent": "^3.0.0"
   }
 }
