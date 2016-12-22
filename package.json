@@ -22,6 +22,7 @@
     "nodemon": "^1.10.0"
   },
   "dependencies": {
+    "co": "^4.6.0",
     "koa": "^2.0.0-alpha.7",
     "koa-compress": "^1.0.9",
     "koa-helmet": "^2.0.0",
@@ -29,6 +30,7 @@
     "koa-router": "^7.0.1",
     "lodash": "^4.17.2",
     "mongodb": "^2.2.12",
+    "parse-json": "^2.2.0",
     "queue": "^4.0.0",
     "request": "^2.79.0",
     "superagent": "^3.0.0",
